@@ -1,0 +1,50 @@
+
+ -     01    200    
+200    04    01    207
+201    09     -    601
+202    01    02    205
+203    02    02    603
+204    08    03    206
+205     -     -    9
+206     -     -    23
+207     -     -    3
+208    No Code Generated
+209    No Code Generated
+600    03    03    604
+601     -     -    10
+602    05    03    604
+603     -     -    8
+604     -     -    7
+
+
+Table of Incomplete Instructions
+LC No   Inst
+  200      A
+  201      B
+  202   ='9'
+  203      D
+  204  ='23'
+  600   ='7'
+  602   ='7'
+
+
+Literal Table
+ No. Address Literal
+   1     205    ='9'
+   2     206   ='23'
+   3     604    ='7'
+
+
+Symbol Table
+ No. Address  Symbol
+   1     207       A
+   2     601       B
+   3     603       D
+   4     207  LABEL:
+   4     600     L1:
+
+
+Pool Table
+ No.
+   1
+   3
